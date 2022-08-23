@@ -1,0 +1,14 @@
+Program goals:
+
+The intention of the program is to get an email or message alert when the swell and conditions at Nazare (or custom location?) will be incredible.
+
+Check the forecast for surf locations using surf-forecast.com - 12 day forecast
+Run program, receive an alert if swell will be above a certain size. Maybe account for rating as well?
+
+- program is run once per day on pythonanywhere
+- check forecast to determine whether an email notification is sent.
+- email to contain:
+    - Note saying big swell is expected (wave height over 6m)
+    - Link to forecast page for Nazare
+
+
